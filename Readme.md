@@ -5,12 +5,12 @@ This is a command-line to-do list manager where users can add, view, and mark ta
 ## Project Structure
 
 todo_list<br>
-&nbsp;data<br>
-&ensp;tasks.txt<br>
-&nbsp;src<br>
-&ensp;main.py<br>
-&ensp;todo_manager.py<br>
-&nbsp;README.md<br>
+&ensp;data<br>
+&emsp;tasks.txt<br>
+&ensp;src<br>
+&emsp;main.py<br>
+&emsp;todo_manager.py<br>
+&ensp;README.md<br>
 
 
 ## Usage
