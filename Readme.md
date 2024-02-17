@@ -4,16 +4,13 @@ This is a command-line to-do list manager where users can add, view, and mark ta
 
 ## Project Structure
 
-todo_list/
-│
-├── data/
-│ └── tasks.txt
-│
-├── src/
-│ ├── main.py
-│ └── todo_manager.py
-│
-└── README.md
+todo_list
+    data
+        tasks.txt
+    src
+        main.py
+        todo_manager.py
+    README.md
 
 
 ## Usage
