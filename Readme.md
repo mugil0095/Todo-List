@@ -6,7 +6,7 @@ This is a command-line to-do list manager where users can add, view, and mark ta
 
 todo_list<br>
     data<br>
-        tasks.txt<br
+        tasks.txt<br>
     src<br>
         main.py<br>
         todo_manager.py<br>
